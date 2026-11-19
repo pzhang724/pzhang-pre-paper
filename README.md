@@ -22,6 +22,7 @@ A Repo of Previous Presentations
 
 | Date | Title | Conference / Journal | Links |
 |------|-------|----------------------|-------|
+| 2026-11-16 | AI Governance in Biometrics: A Practical Framework for Small and Mid-Size Pharma and Biotech Companies | CIMS Global XTalk Webinar Series | [Slides](slides/2026-11-16_CIMS-XTalk-Webinar_AI-Governance-Biometrics.pptx) |
 | 2026-10-09 | yamaa: Agentic Workflow for CDISC Data Standardization — from ODM to SDTM / ADaM and define.xml | NJSUG & PhilaSUG Joint Meeting 2026 (New Jersey & Philadelphia SAS Users Groups) | [Slides](slides/2026-10-09_NJSUG-PhilaSUG-2026_yamaa-Agentic-CDISC.html) · [Online](https://ai4csr.org/slides/njsug-2026-10-09/) |
 | 2026-06-16 | Hands Dirty First: Practical Notes from Before, During, and After Building Agentic Workflows | R/Pharma genAI Day 2026 (virtual) | [Video](https://www.youtube.com/watch?v=s5JMeqBhrTE) |
 | 2026 (TBD) | Practical Open-Source and AI Tools in Ongoing Trial Design, Monitoring, and Reporting (poster) | IDSWG 2026 | [Poster](slides/2026_IDSWG_Poster_Open-Source-AI-Tools.pdf) |
